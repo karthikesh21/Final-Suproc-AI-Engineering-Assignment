@@ -4,9 +4,8 @@
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-**Suproc-AI** is a professional-grade, local agentic search, matching, and verification system. Built to simulate advanced procurement workflows, it parses natural language business requests, extracts hard constraints, retrieves candidate entities from structured datasets, scores them using transparent evidence-based algorithms, self-corrects conflicts, and drafts professional supplier/candidate outreach proposals.
+**Suproc** is a professional grade, local agentic search, matching, and verification system. Built to simulate advanced procurement workflows, it parses natural language business requests, extracts hard constraints, retrieves candidate entities from structured datasets, scores them using transparent evidence-based algorithms, self-corrects conflicts, and drafts professional supplier/candidate outreach proposals.
 
 This project is a submission for the **Suproc AI Engineering Final Round Assignment**.
 
