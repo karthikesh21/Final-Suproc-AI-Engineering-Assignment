@@ -238,8 +238,4 @@ python -m pytest backend/tests/
 * **GitHub**: [@karthikesh21](https://github.com/karthikesh21)
 * **Repository**: [Final-Suproc-AI-Engineering-Assignment](https://github.com/karthikesh21/Final-Suproc-AI-Engineering-Assignment)
 
----
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
