@@ -1,0 +1,146 @@
+[
+  {
+    "id": "PRO-001",
+    "name": "Aditya Rao",
+    "skills": ["Python", "FastAPI", "React", "Docker", "AI"],
+    "experience": 5,
+    "location": "Bengaluru, Karnataka",
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": "PRO-002",
+    "name": "Priya Nair",
+    "skills": ["React", "JavaScript", "CSS", "Tailwind"],
+    "experience": 3,
+    "location": "Kochi, Kerala",
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": "PRO-003",
+    "name": "Kiran Kumar",
+    "skills": ["Python", "Machine Learning", "LLM", "Prompt Engineering"],
+    "experience": 7,
+    "location": "Hyderabad, Telangana",
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "id": "PRO-004",
+    "name": "Meera Krishnan",
+    "skills": ["FastAPI", "PostgreSQL", "AWS"],
+    "experience": 4,
+    "location": "Chennai, Tamil Nadu",
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "id": "PRO-005",
+    "name": "Srinivas Rao",
+    "skills": ["Python", "Data Science", "SQL"],
+    "experience": 8,
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "id": "PRO-006",
+    "name": "Amit Sharma",
+    "skills": ["Java", "Spring Boot", "Kubernetes"],
+    "experience": 6,
+    "location": "Mumbai, Maharashtra",
+    "availability": true,
+    "rating": 4.0
+  },
+  {
+    "id": "PRO-007",
+    "name": "Rohan Deshmukh",
+    "skills": ["Python", "FastAPI", "React"],
+    "experience": 2,
+    "location": "Pune, Maharashtra",
+    "availability": true,
+    "rating": 3.8
+  },
+  {
+    "id": "PRO-008",
+    "name": "Divya Reddy",
+    "skills": ["React", "Redux", "TypeScript"],
+    "experience": 4,
+    "location": "Bengaluru, Karnataka",
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": "PRO-009",
+    "name": "Suresh Babu",
+    "skills": ["Project Management", "Agile", "Scrum"],
+    "experience": 10,
+    "location": "Chennai, Tamil Nadu",
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "id": "PRO-010",
+    "name": "Ananya Sen",
+    "skills": ["Python", "FastAPI", "Pytest"],
+    "experience": 3,
+    "location": "Kolkata, West Bengal",
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "id": "PRO-011",
+    "name": "Vikram Hegde",
+    "skills": ["Python", "Django", "React"],
+    "experience": 5,
+    "location": "Mangaluru, Karnataka",
+    "availability": true,
+    "rating": 4.1
+  },
+  {
+    "id": "PRO-012",
+    "name": "Deepika Pillai",
+    "skills": ["React", "UI/UX", "Figma"],
+    "experience": 6,
+    "location": "Thiruvananthapuram, Kerala",
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": "PRO-013",
+    "name": "Aditya Rao",
+    "skills": ["Python", "FastAPI", "React", "Docker"],
+    "experience": 5,
+    "location": "Bengaluru, Karnataka",
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": "PRO-014",
+    "name": "Incomplete Prof",
+    "skills": [],
+    "experience": null,
+    "location": "Hyderabad, Telangana",
+    "availability": true,
+    "rating": 2.5
+  },
+  {
+    "id": "PRO-015",
+    "name": "Karthik Raja",
+    "skills": ["AI Agents", "Ollama", "Python"],
+    "experience": 3,
+    "location": "Coimbatore, Tamil Nadu",
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "id": "PRO-016",
+    "name": "Siddharth Sen",
+    "skills": ["Python", "AI", "LLM", "TensorFlow"],
+    "experience": 4,
+    "location": "Bengaluru, Karnataka",
+    "availability": true,
+    "rating": 4.7
+  }
+]

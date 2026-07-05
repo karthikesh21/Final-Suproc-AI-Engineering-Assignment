@@ -1,0 +1,98 @@
+[
+  {
+    "id": "OPP-001",
+    "title": "FastAPI & React Agent Integration",
+    "required_skills": ["Python", "FastAPI", "React"],
+    "budget": 5000.0,
+    "deadline": "2026-08-01",
+    "location": "Bengaluru, Karnataka"
+  },
+  {
+    "id": "OPP-002",
+    "title": "LLM Chatbot Development",
+    "required_skills": ["Python", "LLM", "Prompt Engineering"],
+    "budget": 8000.0,
+    "deadline": "2026-07-25",
+    "location": "Hyderabad, Telangana"
+  },
+  {
+    "id": "OPP-003",
+    "title": "Frontend Redesign using Vite",
+    "required_skills": ["React", "CSS", "Vite"],
+    "budget": 3000.0,
+    "deadline": "2026-07-15",
+    "location": "Chennai, Tamil Nadu"
+  },
+  {
+    "id": "OPP-004",
+    "title": "E-Commerce Supplier Portal",
+    "required_skills": ["Python", "Django", "PostgreSQL"],
+    "budget": 12000.0,
+    "deadline": "2026-09-10",
+    "location": "Kochi, Kerala"
+  },
+  {
+    "id": "OPP-005",
+    "title": "Machine Learning Model Deployment",
+    "required_skills": ["Python", "Docker", "Kubernetes"],
+    "budget": 15000.0,
+    "deadline": "2026-08-20",
+    "location": "Bengaluru, Karnataka"
+  },
+  {
+    "id": "OPP-006",
+    "title": "Static Website Migration",
+    "required_skills": ["HTML", "CSS", "JavaScript"],
+    "budget": 1000.0,
+    "deadline": "2026-07-10",
+    "location": "Mumbai, Maharashtra"
+  },
+  {
+    "id": "OPP-007",
+    "title": "Mobile App API Development",
+    "required_skills": ["FastAPI", "MongoDB"],
+    "budget": 4500.0,
+    "deadline": "2026-08-05",
+    "location": "Hyderabad, Telangana"
+  },
+  {
+    "id": "OPP-008",
+    "title": "AI Agent Orchestration System",
+    "required_skills": ["Python", "AI Agents", "FastAPI"],
+    "budget": 20000.0,
+    "deadline": "2026-09-30",
+    "location": "Chennai, Tamil Nadu"
+  },
+  {
+    "id": "OPP-009",
+    "title": "FastAPI & React Agent Integration",
+    "required_skills": ["Python", "FastAPI", "React"],
+    "budget": 5000.0,
+    "deadline": "2026-08-01",
+    "location": "Bengaluru, Karnataka"
+  },
+  {
+    "id": "OPP-010",
+    "title": "Incomplete Opportunity",
+    "required_skills": [],
+    "budget": null,
+    "deadline": null,
+    "location": "Pune, Maharashtra"
+  },
+  {
+    "id": "OPP-011",
+    "title": "Sustainable Packaging Sourcing",
+    "required_skills": ["Packaging", "Procurement"],
+    "budget": 25000.0,
+    "deadline": "2026-07-28",
+    "location": "Chennai, Tamil Nadu"
+  },
+  {
+    "id": "OPP-012",
+    "title": "Biodegradable Supply Contract",
+    "required_skills": ["Packaging", "Manufacturing"],
+    "budget": 45000.0,
+    "deadline": "2026-08-02",
+    "location": "Bengaluru, Karnataka"
+  }
+]

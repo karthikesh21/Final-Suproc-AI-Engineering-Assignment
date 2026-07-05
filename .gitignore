@@ -1,0 +1,16 @@
+# Python Cache & Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+ENV/
+env/
+
+# Frontend Build & Dependency artifacts
+frontend/node_modules/
+frontend/dist/
+.oxlintrc.json
+.pytest_cache/
+*.log
