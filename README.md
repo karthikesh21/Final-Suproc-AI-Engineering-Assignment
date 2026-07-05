@@ -236,5 +236,6 @@ python -m pytest backend/tests/
 * **Name**: Soma Karthikesh
 * **GitHub**: [@karthikesh21](https://github.com/karthikesh21)
 * **Repository**: [Final-Suproc-AI-Engineering-Assignment](https://github.com/karthikesh21/Final-Suproc-AI-Engineering-Assignment)
+* **Live Demo**: https://drive.google.com/file/d/1-wPZuxA4rLbHdp_HiaBjffw4KBkFYXoz/view?usp=drive_link
 
 
